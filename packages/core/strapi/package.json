@@ -80,7 +80,7 @@
   "dependencies": {
     "@koa/cors": "3.1.0",
     "@koa/router": "10.1.1",
-    "@strapi/admin": "4.0.5",
+    "@strapi/admin": "fransfilastap/strapi/tree/master/packages/core/admin",
     "@strapi/database": "4.0.5",
     "@strapi/generate-new": "4.0.5",
     "@strapi/generators": "4.0.5",
